@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#logo {
+    margin-top: 156px;
+    margin-left: 260px;
+}
+
+#main_content {
+    max-width: 1137px;
+    width: 100%;
+}
+
+#header {
+    font-size: 64px;
+    font-weight: 700;
+    margin: auto;
+    color: rgba(24, 29, 39, 1);
+    margin-left: 80px;
+    margin-top: 40px;
+}
+
+#main_content {
+    margin-left: 392px;
+    margin-top: 115px;
+    background: rgba(235, 248, 254, 1);
+    border-radius: 24px;
+    padding: 40px 32px 38px 32px;
+}
+
+#main_P {
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 400;
+    color: rgba(83, 88, 98, 1);
+    margin-left: 32px;
+}
+
+
+#subscribe {
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 24px;
+}
+
+#email {
+    padding: 12px 14px;
+    border: 1px solid rgba(213, 215, 218, 1);
+    border-radius: 8px;
+    background-color: rgba(255, 255, 255, 1);
+    width: 345px;
+}
+
+#button_Subscribe {
+    font-weight: 600;
+    font-family: Inter;
+    font-size: 16px;
+    padding: 12px 18px;
+    background: rgba(0, 124, 184, 1);
+    border: 2px solid;
+    border-radius: 8px;
+    color: rgba(255, 255, 255, 1);
+    margin-left: 24px;
+}
+
+
+#privacy {
+    font-family: Inter;
+    font-size: 14px;
+    color: rgba(83, 88, 98, 1);
+    font-weight: 400;
+    margin-top: 8px;
+}
+
+
+#span {
+    font-family: Inter;
+    line-height: 20px;
+    text-align: left;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+
+#submit_container {
+    padding: 40px 32px;
+    border-radius: 24px;
+    background-color: rgba(235, 248, 254, 1);
+    max-width: 546px;
+    width: 100%;
+    margin: auto;
+    margin-top: 72px;
+    margin-bottom: 99px;
+}
+
+#submit_form {
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Inter;
+}
+
+#full_name {
+    display: block;
+    margin-bottom: 8px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    color: rgba(27, 0, 61, 1);
+}
+
+#text {
+    padding: 13px 16px;
+    width: 450px;
+    border-radius: 8px;
+    border: 1px solid rgba(56, 0, 84, 1);
+}
+
+#email_two_label {
+    display: block;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    color: rgba(27, 0, 61, 1);
+    margin-top: 28px;
+    margin-bottom: 8px;
+}
+
+#email_two {
+    padding: 13px 16px;
+    width: 450px;
+    border-radius: 8px;
+    border: 1px solid rgba(56, 0, 84, 1);
+}
+
+#check_boxes {
+    margin-top: 24px;
+}
+
+#check_box_header {
+    color: rgba(27, 0, 61, 1);
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 7px;
+}
+
+#radio {
+    vertical-align: middle;
+}
+
+#radio_yes {
+    color: rgba(109, 95, 139, 1);
+    font-family: Inter;
+    margin-left: 8px;
+    font-size: 14px;
+    font-weight: 400;
+    vertical-align: middle;
+}
+
+#check_box_two {
+    margin-top: 24px;
+}
+
+#check_box_two_header {
+    font-size: 14px;
+    font-weight: 400;
+    font-family: Inter;
+    color: rgba(27, 0, 61, 1);
+}
+#check_boxebi {
+    margin-top: 7px;
+}
+#check_box {
+    vertical-align: middle;
+}
+
+#c {
+    font-family: Inter;
+    color: rgba(109, 95, 139, 1);
+    vertical-align: middle;
+    margin-left: 11px;
+}
